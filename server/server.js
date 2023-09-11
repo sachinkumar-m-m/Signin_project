@@ -64,7 +64,7 @@ app.post("/register", async (req, res) => {
 
 
 app.listen(5000, () => {
-    console.log("server connected successfully");
+    console.log("server connected success");
 })
 
 
